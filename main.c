@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-        printf("software defined radio radio");
-        return 0;
+printf("software defined radio radio");
+return 0;
 }
