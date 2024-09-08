@@ -1,7 +1,6 @@
 hello:
 	echo "Hello, World"
-
 main:
-	cc main.c -o main
+	g++ -o main main.cpp
 clean:
 	rm main
